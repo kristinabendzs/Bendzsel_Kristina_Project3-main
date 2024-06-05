@@ -32,25 +32,18 @@ section h2 {
     padding-left: 15px;
 }
 
-/*Box Styling*/
-.box {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   margin: 5px;
-   background-color: cornflowerblue;
-   height: 200px;
-   font-family: arial;
-   color: white;
-   font-size: 16px;
-}
+/*styling*/
+
 
 #products div {
-    height: 175px;
-}
-#services div {
-    height: 200px;
-    width: 200px;
+    height: 155px;
+    margin-top: 10px;
 }
 
+.header nav, .header div {
+    height: 60px;
+}
 
+#footer div {
+    height: 155px;
+}
