@@ -1,7 +1,15 @@
 .hidden {
     display: none;
 }
+
 /*General Styles*/
+
+.josefin-sans {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
 
 body {
     margin: 0px;
@@ -32,8 +40,7 @@ section h2 {
     padding-left: 15px;
 }
 
-/*styling*/
-
+/*Box sizing*/
 
 #products div {
     height: 155px;
